@@ -1,0 +1,109 @@
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\API.exe
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\רותי\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\User\Desktop\רותי\API\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\API.exe
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\API.deps.json
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.pdb
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\User\Desktop\רותי\שנה ב'\דוטנט\API\API\obj\Debug\net6.0\ref\API.dll
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\API.exe
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\API.deps.json
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\API.runtimeconfig.json
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\API.dll
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\API.pdb
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.csproj.CopyComplete
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.dll
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\refint\API.dll
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.pdb
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+Y:\Groups\Group_3\גרינברג  אפרת בתיה\.net\Events\API\obj\Debug\net6.0\ref\API.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\API.exe
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\API.deps.json
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\API.runtimeconfig.json
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\API.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\API.pdb
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\CsvHelper.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.csproj.CopyComplete
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\refint\API.dll
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.pdb
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+Y:\Groups\Group_3\מיטלמן  ריקי\.net\Events\API\obj\Debug\net6.0\ref\API.dll
